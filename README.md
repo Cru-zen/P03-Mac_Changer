@@ -7,6 +7,6 @@ Every networking device is assigned a MAC address by the device manufacturer whi
 ## Install
 
 ```
-git clone https://github.com/ANANT555/P03-Mac_Changer.git
+git clone https://github.com/Cru-zen/P03-Mac_Changer.git
 ```
 
